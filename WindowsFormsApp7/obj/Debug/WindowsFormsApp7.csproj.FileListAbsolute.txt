@@ -1,0 +1,37 @@
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form0.resources
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Алина Козинова\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+E:\Трифонов\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\Трифонов\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\Трифонов\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form0.resources
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe.config
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form0.resources
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\ПРОЕКТ\Трифонов\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
